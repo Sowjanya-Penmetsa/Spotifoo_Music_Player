@@ -16,6 +16,7 @@ cd Spotifoo_Music_Player
 javac -d bin src/*.java
 
 cd src
+
 create manifest.txt file
 
 # Command to create jar file
